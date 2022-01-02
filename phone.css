@@ -1,0 +1,51 @@
+/* Navigation */
+#navbar{
+    flex-direction: column;
+}
+
+#navbar::before{
+        height: 110px;
+}
+
+.nitems a {
+    padding: 0px;
+    font-size: 20px;
+}
+
+/* sec1 */
+#sec1::before{
+    height: 746px;
+}
+/* sec 3 about us  */
+#sec3{
+    height: 880px;
+}
+/* sec 4 */
+#sec4{
+    height: 550px;
+}
+
+#form{
+    padding: 74px 0 0 34px;
+    
+}
+#form-body{
+    /* padding: 110px 0px 0px 23px; */
+    
+}
+.input {
+    width: 277px;
+}
+/* footer */
+#fcontent{
+    flex-direction: column;
+}
+#foot{
+    height: 100px;
+}
+#fcontent p{
+    margin: 5px 0px;
+}
+#fcontent ul{
+    margin: 5px 0px;
+}
