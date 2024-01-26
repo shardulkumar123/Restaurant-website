@@ -5,8 +5,8 @@
   box-sizing: border-box;
 }
 
-html{
-    scroll-behavior: smooth;
+html {
+  scroll-behavior: smooth;
 }
 
 /* navbar */
@@ -74,7 +74,7 @@ html{
 #sec1::before {
   content: "";
   position: absolute;
-  background: url("/images/homebg.jpg") no-repeat center center/cover;
+  background: url("./images/homebg.jpg") no-repeat center center/cover;
   height: 670px;
   width: 100%;
   top: 0px;
@@ -212,7 +212,7 @@ html{
   cursor: pointer;
 }
 
-.btn-primary:hover{
+.btn-primary:hover {
   background: rgb(145, 5, 5);
 }
 
@@ -227,7 +227,7 @@ html{
   font-family: "Roboto", sans-serif;
 }
 
-.btn:hover{
+.btn:hover {
   background: rgb(16, 4, 61);
 }
 
