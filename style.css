@@ -74,8 +74,7 @@ html {
 #sec1::before {
   content: "";
   position: absolute;
-  /* background: url("images/homebg.jpg") no-repeat center center/cover; */
-  background: url("images/about/bg.jpg") no-repeat center center/cover;
+  background: url("images/homebg.jpg") no-repeat center center/cover !important;
   height: 670px;
   width: 100%;
   top: 0px;
